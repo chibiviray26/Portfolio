@@ -1,0 +1,17 @@
+.bs-dark-gray {
+    background-color: #003049;
+    color: white;
+    font-size: 85%;
+}
+.col-md-11 {
+    padding-bottom: 5%;
+}
+.col-md-12 {
+    padding-bottom: 30px;
+}
+h1, h5 {
+    color: #89c2d9;
+}
+.img-fluid {
+    padding-top: 10%;
+}
